@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/graphwizards/api/issues"
   },
-  "homepage": "https://github.com/graphwizards/api#readme"
+  "homepage": "https://github.com/graphwizards/api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
